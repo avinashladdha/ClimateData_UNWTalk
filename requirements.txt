@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+rasterio
+xarray
+netCDF4
+statsmodels
+pooch
+jupyter
+requests
+seaborn
+scipy
